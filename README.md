@@ -3,4 +3,4 @@
 Fotoğraf: 1526  
 Hareketli Fotoğraf: 18  
 Video: 0  
-Söz: 
+Söz: 246
